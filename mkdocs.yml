@@ -1,0 +1,11 @@
+site_name: Josh's Site
+
+theme: superhero
+
+nav:
+  - home: index.md
+  - HTML work: html.md
+  - Client Project: client-project.md
+  - Dita: dita.md
+  - MkDocs: mkdocs.md
+  - Narrative and Reflection: narrative.md
